@@ -2,7 +2,7 @@
 
 Muitas vezes precisamos trabalhar com a feição de um ou alguns lotes para diversas finalidades. Recentemente estamos trabalhando para recortar atravéz da feição do lote a nuvem de pontos LiDAR da cidade de São Paulo e analisa-lo individualmente.
 
-Para isso criamos esse repositório para estudar maneiras de se obter a feição do lote pela sua localização geográfica e criamos um (Jupyter Notebook)[https://github.com/geoinfo-smdu/lotes-m3dc/blob/master/Geometria%20do%20lote%20por%20servi%C3%A7o%20WMS%20do%20GeoSampa.ipynb] para tanto.
+Para isso criamos esse repositório para estudar maneiras de se obter a feição do lote pela sua localização geográfica e criamos um [Jupyter Notebook](https://github.com/geoinfo-smdu/lotes-m3dc/blob/master/Geometria%20do%20lote%20por%20servi%C3%A7o%20WMS%20do%20GeoSampa.ipynb) para tanto.
 
 ## Metodologia
 
